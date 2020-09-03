@@ -25,6 +25,6 @@ class RanNumGen {
         }
         
         System.out.println("\nThe minimum value is " + min + ".");
-        System.out.println("The minimum value is " + max + ".");        
+        System.out.println("The maximum value is " + max + ".");        
     }
 }
