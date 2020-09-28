@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-class RanNumGen {
+public class RanNumGen {
     public static void main(String[] args) {
         // Write a well-documented (commented) program, “RanNumGen,”
         // that takes an integer command-line argument “n” that
